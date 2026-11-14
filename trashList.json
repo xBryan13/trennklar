@@ -1,0 +1,1148 @@
+{
+  "products": [
+    {
+      "productName": "Joghurtbecher",
+      "searchTerms": [
+        "joghurtbecher",
+        "joghurt",
+        "kunststoffbecher"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/papier.png",
+          "materialPackage": "Kunststoffbecher",
+          "instructions": [
+            "Becher vollständig entleeren",
+            "Aluminiumdeckel abtrennen",
+            "Nicht ausspülen"
+          ]
+        },
+        "bayern": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Kunststoffbecher",
+          "instructions": [
+            "Becher vollständig entleeren",
+            "Aluminiumdeckel abtrennen",
+            "Nicht ausspülen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Milchpackung",
+      "searchTerms": [
+        "milchpackung",
+        "tetrapak",
+        "getränkekarton",
+        "milchkarton"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Verbundkarton",
+          "instructions": [
+            "Rest vollständig entleeren",
+            "Deckel möglichst abschrauben",
+            "Nicht ineinander stapeln"
+          ]
+        },
+        "bayern": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Verbundkarton",
+          "instructions": [
+            "Rest vollständig entleeren",
+            "Deckel möglichst abschrauben",
+            "Nicht ineinander stapeln"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Shampoo-Flasche",
+      "searchTerms": [
+        "shampoo",
+        "shampooflasche",
+        "kunststoffflasche"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Kunststoffverpackung",
+          "instructions": [
+            "Rest entleeren",
+            "Deckel getrennt oder aufgeschraubt entsorgen"
+          ]
+        },
+        "bayern": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Kunststoffverpackung",
+          "instructions": [
+            "Rest entleeren",
+            "Deckel getrennt oder aufgeschraubt entsorgen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Plastiktüte",
+      "searchTerms": [
+        "plastiktüte",
+        "tüte",
+        "tragetasche",
+        "folie"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Kunststofffolie",
+          "instructions": [
+            "Sauber und restentleert entsorgen"
+          ]
+        },
+        "bayern": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Kunststofffolie",
+          "instructions": [
+            "Sauber und restentleert entsorgen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Konservendose",
+      "searchTerms": [
+        "konservendose",
+        "dose",
+        "blechdose"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Metallverpackung",
+          "instructions": [
+            "Rest entleeren",
+            "Nicht scharfkantig zusammendrücken"
+          ]
+        },
+        "bayern": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Metallverpackung",
+          "instructions": [
+            "Rest entleeren",
+            "Nicht scharfkantig zusammendrücken"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Aluminiumfolie",
+      "searchTerms": [
+        "aluminiumfolie",
+        "alu folie",
+        "alufolie"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Aluminiumverpackung",
+          "instructions": [
+            "Grob restentleeren",
+            "Als Verpackung entsorgen"
+          ]
+        },
+        "bayern": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Aluminiumverpackung",
+          "instructions": [
+            "Grob restentleeren",
+            "Als Verpackung entsorgen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Glasflasche",
+      "searchTerms": [
+        "glasflasche",
+        "flasche glas"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Altglascontainer",
+          "binImage": "img/altglas.png",
+          "materialPackage": "Behälterglas",
+          "instructions": [
+            "Nach Farben sortieren",
+            "Pfandflaschen zurückgeben"
+          ]
+        },
+        "bayern": {
+          "binName": "Altglascontainer",
+          "binImage": "img/altglas.png",
+          "materialPackage": "Behälterglas",
+          "instructions": [
+            "Nach Farben sortieren",
+            "Pfandflaschen zurückgeben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Marmeladenglas",
+      "searchTerms": [
+        "marmeladenglas",
+        "konservenglas",
+        "glas"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Altglascontainer",
+          "binImage": "img/altglas.png",
+          "materialPackage": "Behälterglas",
+          "instructions": [
+            "Rest entleeren",
+            "Nach Glasfarbe einwerfen",
+            "Deckel je nach örtlicher Regelung entsorgen"
+          ]
+        },
+        "bayern": {
+          "binName": "Altglascontainer",
+          "binImage": "img/altglas.png",
+          "materialPackage": "Behälterglas",
+          "instructions": [
+            "Rest entleeren",
+            "Nach Glasfarbe einwerfen",
+            "Deckel je nach örtlicher Regelung entsorgen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Zeitung",
+      "searchTerms": [
+        "zeitung",
+        "papier",
+        "zeitschrift"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Papiertonne",
+          "binImage": "img/papier.png",
+          "materialPackage": "Papier",
+          "instructions": [
+            "Trocken entsorgen",
+            "Nicht mit beschichtetem oder verschmutztem Papier vermischen"
+          ]
+        },
+        "bayern": {
+          "binName": "Papiertonne",
+          "binImage": "img/papier.png",
+          "materialPackage": "Papier",
+          "instructions": [
+            "Trocken entsorgen",
+            "Nicht mit beschichtetem oder verschmutztem Papier vermischen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Pappkarton",
+      "searchTerms": [
+        "pappkarton",
+        "karton",
+        "versandkarton",
+        "kartonage"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Papiertonne",
+          "binImage": "img/papier.png",
+          "materialPackage": "Pappe",
+          "instructions": [
+            "Zerkleinern oder flach falten",
+            "Klebeband nach Möglichkeit entfernen"
+          ]
+        },
+        "bayern": {
+          "binName": "Papiertonne",
+          "binImage": "img/papier.png",
+          "materialPackage": "Pappe",
+          "instructions": [
+            "Zerkleinern oder flach falten",
+            "Klebeband nach Möglichkeit entfernen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Kassenbon",
+      "searchTerms": [
+        "kassenbon",
+        "bon",
+        "thermopapier"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Thermopapier",
+          "instructions": [
+            "Im Zweifel in den Restmüll geben"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Thermopapier",
+          "instructions": [
+            "Im Zweifel in den Restmüll geben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Küchenabfälle",
+      "searchTerms": [
+        "küchenabfälle",
+        "bioabfall",
+        "obstschalen",
+        "gemüsereste"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Biotonne",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Organischer Abfall",
+          "instructions": [
+            "Keine Plastikbeutel verwenden",
+            "Örtliche Bioabfallregeln beachten"
+          ]
+        },
+        "bayern": {
+          "binName": "Biotonne",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Organischer Abfall",
+          "instructions": [
+            "Keine Plastikbeutel verwenden",
+            "Örtliche Bioabfallregeln beachten"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Kaffeesatz",
+      "searchTerms": [
+        "kaffeesatz",
+        "kaffeefilter",
+        "kaffee"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Biotonne",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Bioabfall",
+          "instructions": [
+            "Filterpapier kann meist mit entsorgt werden",
+            "Kommunale Vorgaben beachten"
+          ]
+        },
+        "bayern": {
+          "binName": "Biotonne",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Bioabfall",
+          "instructions": [
+            "Filterpapier kann meist mit entsorgt werden",
+            "Kommunale Vorgaben beachten"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Eierschalen",
+      "searchTerms": [
+        "eierschalen",
+        "ei"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Biotonne",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Bioabfall",
+          "instructions": [
+            "In kleinen Mengen zur Biotonne geben, sofern erlaubt"
+          ]
+        },
+        "bayern": {
+          "binName": "Biotonne",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Bioabfall",
+          "instructions": [
+            "In kleinen Mengen zur Biotonne geben, sofern erlaubt"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Papiertaschentuch",
+      "searchTerms": [
+        "papiertaschentuch",
+        "taschentuch",
+        "tempo"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Hygienepapier",
+          "instructions": [
+            "Benutzte Taschentücher nicht ins Altpapier"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Hygienepapier",
+          "instructions": [
+            "Benutzte Taschentücher nicht ins Altpapier"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Windel",
+      "searchTerms": [
+        "windel",
+        "babywindel"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Hygieneabfall",
+          "instructions": [
+            "In den Restmüll geben"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Hygieneabfall",
+          "instructions": [
+            "In den Restmüll geben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Zahnbürste",
+      "searchTerms": [
+        "zahnbürste",
+        "zahnbuerste"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Gemischter Kunststoff",
+          "instructions": [
+            "Nicht als Verpackung in die Gelbe Tonne geben"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Gemischter Kunststoff",
+          "instructions": [
+            "Nicht als Verpackung in die Gelbe Tonne geben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Katzenstreu",
+      "searchTerms": [
+        "katzenstreu",
+        "streu"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Tierstreu",
+          "instructions": [
+            "Nicht in die Biotonne oder Toilette geben"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Tierstreu",
+          "instructions": [
+            "Nicht in die Biotonne oder Toilette geben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Zigarettenstummel",
+      "searchTerms": [
+        "zigarette",
+        "zigarettenstummel",
+        "kippe"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Restmüll",
+          "instructions": [
+            "Vollständig abgekühlt entsorgen"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Restmüll",
+          "instructions": [
+            "Vollständig abgekühlt entsorgen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Batterie",
+      "searchTerms": [
+        "batterie",
+        "batterien",
+        "AA batterie",
+        "akku"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Sammelstelle",
+          "binImage": "img/batterie.png",
+          "materialPackage": "Batterie/Akku",
+          "instructions": [
+            "Nicht in Hausmüll oder Tonnen geben",
+            "Im Handel oder kommunaler Sammelstelle abgeben",
+            "Pole bei Bedarf abkleben"
+          ]
+        },
+        "bayern": {
+          "binName": "Sammelstelle",
+          "binImage": "img/batterie.png",
+          "materialPackage": "Batterie/Akku",
+          "instructions": [
+            "Nicht in Hausmüll oder Tonnen geben",
+            "Im Handel oder kommunaler Sammelstelle abgeben",
+            "Pole bei Bedarf abkleben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Handy",
+      "searchTerms": [
+        "handy",
+        "smartphone",
+        "mobiltelefon"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Elektro-Sammelstelle",
+          "binImage": "img/elektro.png",
+          "materialPackage": "Elektrogerät",
+          "instructions": [
+            "Nicht in den Hausmüll geben",
+            "Daten löschen",
+            "Bei Sammelstelle oder Rücknahme abgeben"
+          ]
+        },
+        "bayern": {
+          "binName": "Elektro-Sammelstelle",
+          "binImage": "img/elektro.png",
+          "materialPackage": "Elektrogerät",
+          "instructions": [
+            "Nicht in den Hausmüll geben",
+            "Daten löschen",
+            "Bei Sammelstelle oder Rücknahme abgeben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Laptop",
+      "searchTerms": [
+        "laptop",
+        "notebook",
+        "computer"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Elektro-Sammelstelle",
+          "binImage": "img/elektro.png",
+          "materialPackage": "Elektrogerät",
+          "instructions": [
+            "Nicht in den Hausmüll geben",
+            "Daten sichern und löschen",
+            "Zur Rücknahme oder Sammelstelle bringen"
+          ]
+        },
+        "bayern": {
+          "binName": "Elektro-Sammelstelle",
+          "binImage": "img/elektro.png",
+          "materialPackage": "Elektrogerät",
+          "instructions": [
+            "Nicht in den Hausmüll geben",
+            "Daten sichern und löschen",
+            "Zur Rücknahme oder Sammelstelle bringen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Glühbirne",
+      "searchTerms": [
+        "glühbirne",
+        "gluehbirne",
+        "birne"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Restmüll",
+          "instructions": [
+            "Herkömmliche Glühbirnen in den Restmüll"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Restmüll",
+          "instructions": [
+            "Herkömmliche Glühbirnen in den Restmüll"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "LED-Lampe",
+      "searchTerms": [
+        "led lampe",
+        "led-lampe",
+        "lampe"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Sammelstelle für Lampen",
+          "binImage": "img/elektro.png",
+          "materialPackage": "Elektrogerät",
+          "instructions": [
+            "Nicht in den Restmüll oder Altglas",
+            "Bei Sammelstelle abgeben"
+          ]
+        },
+        "bayern": {
+          "binName": "Sammelstelle für Lampen",
+          "binImage": "img/elektro.png",
+          "materialPackage": "Elektrogerät",
+          "instructions": [
+            "Nicht in den Restmüll oder Altglas",
+            "Bei Sammelstelle abgeben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Porzellanteller",
+      "searchTerms": [
+        "porzellan",
+        "teller",
+        "keramik"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll (kleine Mengen)",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Keramik/Porzellan",
+          "instructions": [
+            "Nicht in den Altglascontainer geben"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll (kleine Mengen)",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Keramik/Porzellan",
+          "instructions": [
+            "Nicht in den Altglascontainer geben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Spiegel",
+      "searchTerms": [
+        "spiegel",
+        "spiegelglas"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll (kleine Stücke) / Wertstoffhof",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Flachglas",
+          "instructions": [
+            "Nicht in den Behälterglascontainer geben",
+            "Große Stücke zum Wertstoffhof"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll (kleine Stücke) / Wertstoffhof",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Flachglas",
+          "instructions": [
+            "Nicht in den Behälterglascontainer geben",
+            "Große Stücke zum Wertstoffhof"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Kleidung",
+      "searchTerms": [
+        "kleidung",
+        "textilien",
+        "shirt",
+        "hose"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Textilsammlung",
+          "binImage": "img/textilien.png",
+          "materialPackage": "Textilien",
+          "instructions": [
+            "Saubere und trockene Textilien abgeben",
+            "Beschädigte Textilien nach lokalen Vorgaben entsorgen"
+          ]
+        },
+        "bayern": {
+          "binName": "Textilsammlung",
+          "binImage": "img/textilien.png",
+          "materialPackage": "Textilien",
+          "instructions": [
+            "Saubere und trockene Textilien abgeben",
+            "Beschädigte Textilien nach lokalen Vorgaben entsorgen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Schuhe",
+      "searchTerms": [
+        "schuhe",
+        "turnschuhe"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Textilsammlung",
+          "binImage": "img/textilien.png",
+          "materialPackage": "Textilien/Schuhe",
+          "instructions": [
+            "Paarweise und sauber abgeben, sofern angenommen"
+          ]
+        },
+        "bayern": {
+          "binName": "Textilsammlung",
+          "binImage": "img/textilien.png",
+          "materialPackage": "Textilien/Schuhe",
+          "instructions": [
+            "Paarweise und sauber abgeben, sofern angenommen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Frittieröl",
+      "searchTerms": [
+        "frittieröl",
+        "speiseöl",
+        "öl"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Sammelstelle",
+          "binImage": "img/altol.png",
+          "materialPackage": "Altöl/Speiseöl",
+          "instructions": [
+            "Nicht in Abfluss oder Toilette schütten",
+            "In dichtem Behälter zur Sammelstelle"
+          ]
+        },
+        "bayern": {
+          "binName": "Sammelstelle",
+          "binImage": "img/altol.png",
+          "materialPackage": "Altöl/Speiseöl",
+          "instructions": [
+            "Nicht in Abfluss oder Toilette schütten",
+            "In dichtem Behälter zur Sammelstelle"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Farbreste",
+      "searchTerms": [
+        "farbe",
+        "farbreste",
+        "lack"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Schadstoffannahme",
+          "binImage": "img/schadstoff.png",
+          "materialPackage": "Problemstoff",
+          "instructions": [
+            "Flüssige Reste zur Schadstoffsammlung",
+            "Eingetrocknete Reste örtliche Regeln prüfen"
+          ]
+        },
+        "bayern": {
+          "binName": "Schadstoffannahme",
+          "binImage": "img/schadstoff.png",
+          "materialPackage": "Problemstoff",
+          "instructions": [
+            "Flüssige Reste zur Schadstoffsammlung",
+            "Eingetrocknete Reste örtliche Regeln prüfen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Spraydose",
+      "searchTerms": [
+        "spraydose",
+        "deospray",
+        "aerosol"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Gelbe Tonne (restentleert)",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Verpackung",
+          "instructions": [
+            "Nur vollständig restentleert als Verpackung entsorgen",
+            "Nicht öffnen oder beschädigen"
+          ]
+        },
+        "bayern": {
+          "binName": "Gelbe Tonne (restentleert)",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Verpackung",
+          "instructions": [
+            "Nur vollständig restentleert als Verpackung entsorgen",
+            "Nicht öffnen oder beschädigen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Styropor-Verpackung",
+      "searchTerms": [
+        "styropor",
+        "styroporverpackung"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Verpackungskunststoff",
+          "instructions": [
+            "Nur Verpackungsstyropor",
+            "Bau-/Dämmstyropor zum Wertstoffhof"
+          ]
+        },
+        "bayern": {
+          "binName": "Gelbe Tonne",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Verpackungskunststoff",
+          "instructions": [
+            "Nur Verpackungsstyropor",
+            "Bau-/Dämmstyropor zum Wertstoffhof"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Pizza-Karton",
+      "searchTerms": [
+        "pizzakarton",
+        "pizza karton"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll bei starker Verschmutzung",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Pappe (verschmutzt)",
+          "instructions": [
+            "Saubere Teile ggf. Altpapier",
+            "Stark fettige oder verschmutzte Teile in Restmüll"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll bei starker Verschmutzung",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Pappe (verschmutzt)",
+          "instructions": [
+            "Saubere Teile ggf. Altpapier",
+            "Stark fettige oder verschmutzte Teile in Restmüll"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Eisverpackung",
+      "searchTerms": [
+        "eisverpackung",
+        "eisbecher"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Gelbe Tonne (wenn Verpackung)",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Verpackung",
+          "instructions": [
+            "Restentleeren",
+            "Material und örtliche Regel beachten"
+          ]
+        },
+        "bayern": {
+          "binName": "Gelbe Tonne (wenn Verpackung)",
+          "binImage": "img/gelbeTonne.png",
+          "materialPackage": "Verpackung",
+          "instructions": [
+            "Restentleeren",
+            "Material und örtliche Regel beachten"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Toilettenpapier",
+      "searchTerms": [
+        "toilettenpapier",
+        "klopapier"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Hygienepapier",
+          "instructions": [
+            "Nicht ins Altpapier"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Hygienepapier",
+          "instructions": [
+            "Nicht ins Altpapier"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Knochen",
+      "searchTerms": [
+        "knochen",
+        "fleischreste"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Biotonne oder Restmüll",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Bioabfall (regional verschieden)",
+          "instructions": [
+            "Kommunale Bioabfallregeln beachten"
+          ]
+        },
+        "bayern": {
+          "binName": "Biotonne oder Restmüll",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Bioabfall (regional verschieden)",
+          "instructions": [
+            "Kommunale Bioabfallregeln beachten"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Brot",
+      "searchTerms": [
+        "brot",
+        "backwaren",
+        "brötchen"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Biotonne",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Bioabfall",
+          "instructions": [
+            "Kleine Mengen nach lokalen Regeln"
+          ]
+        },
+        "bayern": {
+          "binName": "Biotonne",
+          "binImage": "img/biotonne.png",
+          "materialPackage": "Bioabfall",
+          "instructions": [
+            "Kleine Mengen nach lokalen Regeln"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Holz",
+      "searchTerms": [
+        "holz",
+        "holzstück"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Wertstoffhof / Restmüll (kleine Stücke)",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Holz",
+          "instructions": [
+            "Behandeltes Holz gesondert prüfen"
+          ]
+        },
+        "bayern": {
+          "binName": "Wertstoffhof / Restmüll (kleine Stücke)",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Holz",
+          "instructions": [
+            "Behandeltes Holz gesondert prüfen"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Spielzeug aus Kunststoff",
+      "searchTerms": [
+        "kunststoffspielzeug",
+        "plastikspielzeug",
+        "spielzeug"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll oder Wertstoffhof",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Nicht-Verpackungskunststoff",
+          "instructions": [
+            "Nicht automatisch in die Gelbe Tonne"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll oder Wertstoffhof",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Nicht-Verpackungskunststoff",
+          "instructions": [
+            "Nicht automatisch in die Gelbe Tonne"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Pfandflasche",
+      "searchTerms": [
+        "pfandflasche",
+        "einwegflasche",
+        "mehrwegflasche"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Pfandrückgabe",
+          "binImage": "img/pfand.png",
+          "materialPackage": "Pfandverpackung",
+          "instructions": [
+            "Im Handel zurückgeben"
+          ]
+        },
+        "bayern": {
+          "binName": "Pfandrückgabe",
+          "binImage": "img/pfand.png",
+          "materialPackage": "Pfandverpackung",
+          "instructions": [
+            "Im Handel zurückgeben"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Medikamente",
+      "searchTerms": [
+        "medikamente",
+        "tabletten",
+        "arzneimittel"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll oder Schadstoffsammlung (örtlich)",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Altmedikamente",
+          "instructions": [
+            "Nicht in Toilette oder Abfluss",
+            "Örtliche Entsorgungsvorgaben beachten"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll oder Schadstoffsammlung (örtlich)",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Altmedikamente",
+          "instructions": [
+            "Nicht in Toilette oder Abfluss",
+            "Örtliche Entsorgungsvorgaben beachten"
+          ]
+        }
+      }
+    },
+    {
+      "productName": "Küchenpapier",
+      "searchTerms": [
+        "küchenpapier",
+        "kuechenpapier"
+      ],
+      "states": {
+        "rheinlandPfalz": {
+          "binName": "Restmüll (verschmutzt)",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Hygienepapier",
+          "instructions": [
+            "Verschmutztes Küchenpapier nicht ins Altpapier"
+          ]
+        },
+        "bayern": {
+          "binName": "Restmüll (verschmutzt)",
+          "binImage": "img/restmuell.png",
+          "materialPackage": "Hygienepapier",
+          "instructions": [
+            "Verschmutztes Küchenpapier nicht ins Altpapier"
+          ]
+        }
+      }
+    }
+  ]
+}

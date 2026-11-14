@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=search" />
+    <script src="js/index.js" defer></script>
+</head>
+
+<body>
+    <div class="topBar">
+        <a href="index.html">
+            <img class="icon" src="img/icon.png" alt="icon">
+        </a>
+        <a class="header">trennklar®</a>
+        <div class="miniBar">
+            <a class="howTo" href="howToDo.html">So funktioniert's</a>
+            <a class="tips" href="tipps.html">Wissen & Tipps</a>
+        </div>
+    </div>
+    <div class="mainBox">
+        <div class="innerMainBox">
+            <p id="top">● Mülltrennung in Deutschland</p><br>
+            <p id="mid1">Richtig trennen.</p><br>
+            <p id="mid2">Einfach gemacht.</p><br>
+            <p id="bot">Finde die richtige Tonne für deinen Abfall.</p>
+        </div>
+        <img class="trashCan" src="img/trashCan.png" alt="trashCan">
+    </div>
+
+    <div class="secondBox">
+        <div class="upperSecondBox">
+            <a class="upperSecondBoxStates">Bundesland auswählen</a>
+            <a class="upperSecondBoxSearch">Produkt oder Material suchen</a>
+        </div>
+        <div class=lowerSecondBox>
+            <div class="statesDropdown">
+                <img src="img/locationIcon.png" alt="select">
+                <select name="states" id="states" required>
+                    <option value="">Bitte auswählen</option>
+                    <option value="badenWuerttemberg">Baden-Württemberg</option>
+                    <option value="bayern">Bayern</option>
+                    <option value="berlin">Berlin</option>
+                    <option value="brandenburg">Brandenburg</option>
+                    <option value="bremen">Bremen</option>
+                    <option value="hamburg">Hamburg</option>
+                    <option value="hessen">Hessen</option>
+                    <option value="mecklenburgVorpommern">Mecklenburg-Vorpommern</option>
+                    <option value="niedersachsen">Niedersachsen</option>
+                    <option value="nordrheinWestfalen">Nordrhein-Westfalen</option>
+                    <option value="rheinlandPfalz">Rheinland-Pfalz</option>
+                    <option value="saarland">Saarland</option>
+                    <option value="sachsen">Sachsen</option>
+                    <option value="sachsenAnhalt">Sachsen-Anhalt</option>
+                    <option value="schleswigHolstein">Schleswig-Holstein</option>
+                    <option value="thueringen">Thüringen</option>
+                </select>
+            </div>
+            <form id="productSearchBar">
+                <div class="searchInput">
+                    <img class="searchImg" src="img/searchIcon.png" alt="search">
+                    <input type="text" id="productInput" name="product" placeholder="z.B. Joghurtbecher" required>
+                </div>
+                <button class="searchButton" type="submit">Tonne finden →</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="responseBox">
+        <label>Dein Suchergebnis</label>
+
+        <!-- Default-Fenster -->
+        <div id="defaultView" class="defaultView">
+            <p>
+                Suche nach einem Produkt, welches du
+                wegschmeißen möchtest.
+            </p>
+        </div>
+
+        <!-- Ergebnis-Fenster -->
+        <div id="resultView" class="responseEntity hidden">
+
+            <img id="binImage" class="responseImgPlaceholder" src="" alt="Mülltonne">
+
+            <div class="responseEntityText">
+                <p>Produkt:</p>
+                <p id="productName">-</p>
+
+                <p>Muss in die:</p>
+                <p id="binName">-</p>
+            </div>
+
+            <div class="responseEntitySteps">
+                <p>So geht's:</p>
+                <ul id="instructionsList"></ul>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>
