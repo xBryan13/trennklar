@@ -1,0 +1,283 @@
+body {
+    background-color: rgb(227, 235, 233);
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.topBar {
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    align-content: center;
+}
+
+.header {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.icon {
+    margin-left: 3px;
+    height: 50px;
+}
+
+.howTo {
+    text-decoration: none;
+    color: rgb(102, 102, 102);
+    font-size: 20px;
+}
+
+.howTo:hover {
+    color: rgb(192, 192, 192);
+}
+
+.tips {
+    margin-left: 40px;
+    text-decoration: none;
+    color: rgb(102, 102, 102);
+    margin-right: 110px;
+    font-size: 20px;
+}
+
+.tips:hover {
+    color: rgb(192, 192, 192);
+}
+
+.miniBar {
+    max-width: fit-content;
+    margin-left: auto;
+    display: flex;
+    position: relative;
+    gap: 25px;
+    align-items: center;
+}
+
+.steps {
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.mainBox {
+    font-family: sans-serif;
+    margin-left: 25px;
+    position: relative;
+    max-height: max-content;
+    display: flex;
+    align-items: center;
+    gap: 1200px;
+}
+
+#top {
+    color: green;
+    display: contents;
+}
+
+#mid1 {
+    color: rgb(0, 61, 0);
+    font-size: 35px;
+    display: contents;
+    font-weight: bold;
+}
+
+#mid2 {
+    color: green;
+    font-size: 35px;
+    display: contents;
+    font-weight: bold;
+}
+
+#bot {
+    color: grey;
+    display: contents;
+}
+
+.trashCan {
+    height: 150px;
+}
+
+.secondBox {
+    background-color: white;
+    font-family: sans-serif;
+    margin: 25px;
+    height: 100px;
+    border-radius: 1rem;
+    line-height: 2.5;
+    position: relative;
+    width: auto;
+}
+
+.secondBox select {
+    padding: 15px;
+    border-radius: 1rem;
+}
+
+.lowerSecondBox {
+    margin-left: 20px;
+    display: flex;
+    align-content: center;
+    gap: 20px;
+}
+
+#productSearchBar {
+    gap: 10px;
+    display: flex;
+    align-content: center;
+    flex:1;
+}
+
+#productSearchBar input {
+    width: 100%;
+    padding: 15px;
+    border-radius: 1rem;
+}
+
+#productSearchBar button {
+    background-color: rgb(1, 99, 1);
+    color: white;
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+    width: 200px;
+    margin-right: 20px;
+}
+
+.upperSecondBoxStates {
+    position: relative;
+    margin-left: 20px;
+    font-size: 12px;
+    color: rgb(99, 100, 99);
+}
+
+.upperSecondBoxSearch {
+    position: relative;
+    margin-left: 294px;
+    font-size: 12px;
+    color: rgb(99, 100, 99);
+}
+
+.searchInput {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    flex: 1;
+}
+
+.searchInput .material-symbols-outlined {
+    display: relative;
+    color: #666;
+    font-size: 24px;
+    width: 100%;
+}
+
+.searchInput input {
+    border: none;
+    outline: none;
+    font-size: 16px;
+    width: 100%;
+    padding: 10px;
+}
+
+.searchImg {
+    height: 35px;
+}
+
+.statesDropdown {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.statesDropdown img {
+    height: 35px;
+}
+
+#states {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 16px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.responseBox {
+    margin: 25px;
+}
+
+.responseEntity {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    border: 1px solid grey;
+    border-radius: 1rem;
+    background-color: rgb(239, 239, 239);
+    margin-top: 15px;
+    padding: 20px;
+}
+
+.responseBox label{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#productSearchBar button:hover {
+    background-color: rgb(4, 200, 4);
+    color: white;
+}
+
+.responseImgPlaceholder {
+    margin: 25px;
+    height: 250px;
+}
+
+.responseEntityText {
+    border-left: 1px solid #666;
+    padding-left: 25px;
+    line-height: normal;
+}
+
+.responseEntitySteps {
+    border-left: 1px solid #666;
+    padding-left: 25px;
+    margin-left: auto;
+}
+
+.defaultView {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 1rem;
+
+    min-height: 250px;
+    margin-top: 15px;
+    padding: 20px;
+
+    color: rgb(99, 100, 99);
+    font-size: 20px;
+    text-align: center;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.input-error {
+    border: 2px solid red !important;
+    background-color: #ffe5e5;
+}
